@@ -12,6 +12,8 @@ reverse the string in a way that special characters are not affected.
  */
 
 public class ReverseString {
+
+    //reverse Function
     public static void reverse(char str[])
     {
         // Initialize left and right pointers
