@@ -1,4 +1,4 @@
-package com.iit.algo;
+package com.iit.algo.stringandarray;
 /*
 Given an array of distinct integers and a sum value.
 Find count of triplets with sum smaller than given sum value.
